@@ -1,0 +1,22 @@
+{
+  "name": "site-search",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "paper-elements": "Polymer/paper-elements#master"
+  },
+  "devDependencies": {
+    "web-component-tester": "*"
+  },
+  "homepage": "https://github.com/PolymerLabs/site-search",
+  "_release": "e5b7788357",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e5b7788357c8976d897403c1ff24ec63907349e0"
+  },
+  "_source": "git://github.com/PolymerLabs/site-search.git",
+  "_target": "master",
+  "_originalSource": "PolymerLabs/site-search",
+  "_direct": true
+}
