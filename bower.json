@@ -2,8 +2,8 @@
   "name": "site-search",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#~0.5.2",
-    "paper-elements": "Polymer/paper-elements#~0.5.2"
+    "polymer": "Polymer/polymer#^0.5.4",
+    "paper-elements": "Polymer/paper-elements#^0.5.4"
   },
   "devDependencies": {
     "web-component-tester": "*"
